@@ -4,7 +4,7 @@
 
 - **Casual Strategy**  🎮
 
-- **Pass To Play**  👉Vs👈
+- **Pass To Play**  👉__👈
 
 <h3 align="left">Game Feathers:</h3>
 
