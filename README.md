@@ -2,16 +2,16 @@
 
 <h3 align="left">Game Genre:</h3>
 
-- **Casual Strategy**  🎮
+- 🎮 **Casual Strategy**
 
-- **Pass To Play**  👉__👈
+- 👉__👈 **Pass To Play**
 
 <h3 align="left">Game Feathers:</h3>
 
-- **Player vs Player** 🤼
+- 🤼 **Player vs Player**
 
-- **Player vs AI** 🧑VS🤖
+- 🧑VS🤖 **Player vs AI**
 
-- **User-Friendly UI** 👨🏻‍💻
+- 👨🏻‍💻 **User-Friendly UI**
 
-- Project maid in **Unreal engine 5.3** 💬
+- 💬 Project maid in **Unreal engine 5.3**
