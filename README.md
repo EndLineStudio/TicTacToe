@@ -1,6 +1,10 @@
 # TicTacToe
 
-<h3 align="left">Game Genre: **Casual Strategy**  🎮</h3>
+<h3 align="left">Game Genre:</h3>
+
+- **Casual Strategy**  🎮
+
+- **Pass To Play**  👉Vs👈
 
 <h3 align="left">Game Feathers:</h3>
 
