@@ -1,5 +1,7 @@
 # TicTacToe
 
+<p align="center"> <img width="512" src="https://media1.tenor.com/m/SOonqXMUxe4AAAAd/xoxo-vsauce.gif"> </p>
+
 <h3 align="left">Game Genre:</h3>
 
 - 🎮 **Casual Strategy**
